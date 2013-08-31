@@ -1,0 +1,29 @@
+{
+	"name": "never.js",
+	"version": "0.0.1",
+	"author": {
+		"name": "Marius van der Wel",
+		"email": "marius.vanderwel@gmail.com"
+	},
+	"description": "Never executes your callbacks, both sync and async",
+	"keywords": [
+		"never"
+		"sync",
+		"async"
+	],
+	"homepage": "https://github.com/mvanderw/never.js",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:mvanderw/never.js.git"
+	},
+	"dependencies": {
+	},
+	"devDependencies": {
+		"mocha": "1.4.x"
+	},
+	"scripts": {
+		"test": "./node_modules/.bin/mocha --reporter spec --timeout 2000"
+	},
+	"main": "index",
+	"licence": "WTFPL"
+}
