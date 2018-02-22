@@ -22,7 +22,7 @@ never.js never executes your callbacks, so you get automagic built-in error hand
 
 ## This is stupid
 
-Fair enough. I had a few mins waiting for my database work and wanted to get a quick look at [Mocha](http://visionmedia.github.com/mocha/).
+Fair enough. I had a few mins waiting for my database work and wanted to get a quick look at [Mocha](http://mochajs.org/).
 
 ## License 
 
